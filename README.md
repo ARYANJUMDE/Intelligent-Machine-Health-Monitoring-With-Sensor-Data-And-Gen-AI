@@ -6,6 +6,8 @@ This project is an AI-powered predictive maintenance system that monitors the he
 
 
 
+
+
 🔑 Key Features
 
 ✅ Real-time monitoring of industrial machines using sensor data
@@ -15,6 +17,8 @@ This project is an AI-powered predictive maintenance system that monitors the he
 ✅ User-friendly Streamlit web interface for data upload & prediction download
 
 ✅ Generates actionable insights to optimize maintenance schedules
+
+
 
 
 
@@ -30,6 +34,8 @@ Deployment: Streamlit Cloud (Web App)
 
 
 
+
+
 ⚡ How It Works
 
 Collect sensor data (temperature, vibration, pressure, etc.) in CSV format.
@@ -39,6 +45,8 @@ Preprocess the data for the ML model.
 Predict machine health status or time-to-failure.
 
 Streamlit app allows users to upload CSV files and download predictions.
+
+
 
 
 
@@ -54,6 +62,8 @@ Increases saftey of workers at workplace.
 
 
 
+
+
 📂 Project Structure
 
 Intelligent-Machine-Health-Monitoring-With-Sensor-Data-And-Gen-AI/
@@ -65,6 +75,8 @@ Intelligent-Machine-Health-Monitoring-With-Sensor-Data-And-Gen-AI/
 
 
 
+
+
 🌟 Future Enhancements
 
 Real-time sensor streaming integration
@@ -72,6 +84,8 @@ Real-time sensor streaming integration
 Interactive dashboards for visualizing machine health trends
 
 Advanced AI models (e.g., LSTM, Transformer) for time-series prediction
+
+
 
 
 
