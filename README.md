@@ -69,7 +69,8 @@ Increases saftey of workers at workplace.
 Intelligent-Machine-Health-Monitoring-With-Sensor-Data-And-Gen-AI/
 ├─ Predictive-Maintenance-using-Random-Forest.ipynb  
 ├─ app.py                            
-├─ my_model.pkl                     
+├─ my_model.pkl
+├─ my_scaler.pkl
 ├─ requirements.txt                  
 ├─ README.md                         
 
